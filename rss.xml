@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Crystal Visions]]></title>
+        <description><![CDATA[Crystal Visions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 19:47:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crystal Visions]]></title>
+            <description><![CDATA[<article><h1>Crystal Visions</h1><p>Beauty Around Us</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c5394d2408603e0550f0c03af9f76a585bac69.png"></article>]]></description>
+            <link>undefinedcrystal-visions/index.html</link>
+            <guid isPermaLink="false">d6f069be-551a-4a28-83a5-428ce722c2fd</guid>
+            <pubDate>Sat, 06 Feb 2016 19:47:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

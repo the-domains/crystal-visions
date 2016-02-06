@@ -2,37 +2,16 @@
     <channel>
         <title><![CDATA[Crystal Visions]]></title>
         <description><![CDATA[Crystal Visions]]></description>
-        <link>https://thegrid.ai/crystal-visions/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 20:05:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/crystal-visions/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 20:09:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/f9/a3/86/f9a3867eb05273357160c83d1634d5d6.jpg">]]></description>
-            <link>https://thegrid.ai/crystal-visions/e45fa327-a602-4da3-b1c2-850a8103e6ba/index.html</link>
-            <guid isPermaLink="false">e45fa327-a602-4da3-b1c2-850a8103e6ba</guid>
-            <pubDate>Sat, 06 Feb 2016 20:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://colorpalettes.net/wp-content/uploads/2016/01/color-palette-2610.png">]]></description>
-            <link>https://thegrid.ai/crystal-visions/8fe89e5b-2930-4873-b841-352efe396261/index.html</link>
-            <guid isPermaLink="false">8fe89e5b-2930-4873-b841-352efe396261</guid>
-            <pubDate>Sat, 06 Feb 2016 20:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/34/75/1f/34751f1344e4c074a5fc04ee1aa51d02.jpg">]]></description>
-            <link>https://thegrid.ai/crystal-visions/b0f99b10-4dd0-4321-8f1e-a9e4ccfb1594/index.html</link>
-            <guid isPermaLink="false">b0f99b10-4dd0-4321-8f1e-a9e4ccfb1594</guid>
-            <pubDate>Sat, 06 Feb 2016 20:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://colorpalettes.net/wp-content/uploads/2016/01/color-palette-2609.png">]]></description>
-            <link>https://thegrid.ai/crystal-visions/219d943a-dee3-4d95-96aa-c59d508df875/index.html</link>
-            <guid isPermaLink="false">219d943a-dee3-4d95-96aa-c59d508df875</guid>
-            <pubDate>Sat, 06 Feb 2016 20:01:12 GMT</pubDate>
+            <description><![CDATA[<p>Collecting Beauty from a Web</p>]]></description>
+            <link>undefined28897802-619a-42f1-9531-4c00ac906b81/index.html</link>
+            <guid isPermaLink="false">28897802-619a-42f1-9531-4c00ac906b81</guid>
+            <pubDate>Sat, 06 Feb 2016 20:09:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

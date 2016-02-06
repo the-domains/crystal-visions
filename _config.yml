@@ -1,7 +1,7 @@
 name: Crystal Visions
 favicon: null
-layout_spectrum: 0.9479103130288422
-typography_spectrum: 0.36601885687559843
+layout_spectrum: 1
+typography_spectrum: 0.59225
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4120503328740597
-  lightness: 0.4613791946321726
-  saturation: 0.6329040238633752
-  rhythmicContrast: 0.9055722879711539
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []

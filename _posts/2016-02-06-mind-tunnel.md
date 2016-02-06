@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.flickr.com/'
   name: Flickr
-  favicon: 'https://www.flickr.com/favicon.ico'
   domain: www.flickr.com
+  url: 'https://www.flickr.com/'
+  favicon: 'https://www.flickr.com/favicon.ico'
 keywords: []
 app_links:
   - url: 'flickr://flickr.com/photos/25579783@N08/23901331023'
@@ -17,13 +17,17 @@ app_links:
     app_store_id: '328407587'
 isBasedOnUrl: 'https://www.flickr.com/photos/25579783@N08/23901331023/in/album-72157662049265513/'
 title: Mind Tunnel
-datePublished: '2016-02-06T20:38:59.908Z'
-dateModified: '2016-02-06T20:36:28.279Z'
+datePublished: '2016-02-06T21:21:02.629Z'
+dateModified: '2016-02-06T21:20:59.517Z'
 sourcePath: _posts/2016-02-06-mind-tunnel.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: false
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 

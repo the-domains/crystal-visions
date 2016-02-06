@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Crystal Visions]]></title>
         <description><![CDATA[Crystal Visions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crystal-visions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 20:09:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 20:14:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crystal-visions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG/440px-Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG">]]></description>
+            <link>https://en.wikipedia.org/wiki/Iris_sibirica</link>
+            <guid isPermaLink="false">8c317606-7cc2-42e5-a3aa-e6ec49a73956</guid>
+            <pubDate>Sat, 06 Feb 2016 20:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Collecting Beauty from a Web</p>]]></description>
-            <link>undefined28897802-619a-42f1-9531-4c00ac906b81/index.html</link>
+            <link>https://thegrid.ai/crystal-visions/28897802-619a-42f1-9531-4c00ac906b81/index.html</link>
             <guid isPermaLink="false">28897802-619a-42f1-9531-4c00ac906b81</guid>
             <pubDate>Sat, 06 Feb 2016 20:09:12 GMT</pubDate>
         </item>

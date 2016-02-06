@@ -1,15 +1,7 @@
-layout_spectrum: 0.6989882
-favicon: null
 name: Crystal Visions
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6989882
+typography_spectrum: 0.1644182
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 0.2032041
-  saturation: 0.43086
-  rhythmicContrast: 0.8423272
   brandColors:
     - '#5C3077'
     - '#AC77CF'
     - '#FA8803'
     - '#9A3901'
     - '#FFE876'
-typography_spectrum: 0.1644182
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 0.25
+purpose: []

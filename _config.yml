@@ -1,6 +1,6 @@
 name: Crystal Visions
 favicon: null
-layout_spectrum: 0.6989882
+layout_spectrum: 0.89432
 typography_spectrum: 0.1644182
 collections:
   - index:
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5C3077'
-    - '#AC77CF'
-    - '#FA8803'
-    - '#9A3901'
-    - '#FFE876'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 0.25
+    - '#726d96'
+    - '#10120f'
+    - '#f3f2de'
+    - '#bab896'
+    - '#ba8178'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
